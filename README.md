@@ -1,7 +1,7 @@
 
 ---
 
-## 📁 `frontend/README.md`
+## Microservices UI
 
 ```md
 # Frontend
